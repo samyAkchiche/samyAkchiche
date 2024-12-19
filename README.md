@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @samyAkchiche<br>
 I'm a Front-End Web Developer with a passion for creating impactful applications that solve real-world problems.  
 
-- 🔭 **Currently Working On:** A food app that helps users explore recipes, manage meal plans, or order food seamlessly  
+- 🔭 **Currently Working On:** A food app that helps users explore recipes and manage meal plans. 
 - 🌱 **Learning:** React and Tailwind CSS to enhance my front-end development skills and build sleek, responsive interfaces.  
 - 🎯 **Goals:** To refine my full-stack development skills and contribute to meaningful open-source projects.  
 
