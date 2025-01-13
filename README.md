@@ -2,11 +2,11 @@
 I'm a Front-End Web Developer with a passion for creating impactful applications that solve real-world problems.  
 
 - 🔭 **Currently Working On:** A food app that helps users explore recipes and manage meal plans. 
-- 🌱 **Learning:** React and Tailwind CSS to enhance my front-end development skills and build sleek, responsive interfaces.  
-- 🎯 **Goals:** To refine my full-stack development skills and contribute to meaningful open-source projects.  
+- 🌱 **Learning:** React to enhance my front-end development skills and build sleek, responsive interfaces.  
+- 🎯 **Goals:** To refine my front-end development skills and contribute to meaningful open-source projects.  
 
 📫 How to reach me: samyakchiche04@gmail.com <br/>
-🌐 Check out [My Portfolio](https://samyakchiche.github.io/myPortfolio/)
+🌐 Check out [My Portfolio](https://myportfolio-55f59.web.app/)
 
 
 
