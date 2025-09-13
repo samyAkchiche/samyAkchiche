@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @samyAkchiche<br>
 I'm a Front-End Web Developer with a passion for creating impactful applications that solve real-world problems.  
 
-- 🔭 **Currently Working On:** [Pharmaceutica](https://github.com/yanissiammour/Pharmaceutica)  an innovative platform designed to transform the pharmaceutical industry.
+- 🔭 **Currently Working On:** My portfolio.
 - 🌱 **Learning:** React on [Coursera: Meta Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-front-end-developer) & TypeScript.
 - 🎯 **Goals:** To refine my front-end development skills and contribute to meaningful open-source projects.  
 
