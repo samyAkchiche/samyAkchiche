@@ -6,7 +6,7 @@ I'm a Front-End Web Developer with a passion for creating impactful applications
 - 🎯 **Goals:** To refine my front-end development skills and contribute to meaningful open-source projects.  
 
 📫 How to reach me: samyakchiche04@gmail.com <br/>
-🌐 Check out [My Portfolio](https://myportfolio-55f59.web.app/)
+🌐 Check out [My Portfolio](https://samyakchiche.netlify.app/)
 
 ## 🎓 Certification  
 [![Meta Front-End Developer](https://img.shields.io/badge/Meta-Front--End%20Developer-blue?logo=coursera&style=for-the-badge)](https://www.credly.com/badges/04d3ab14-52e0-4fbd-b0db-02fba753662c/public_url)  
