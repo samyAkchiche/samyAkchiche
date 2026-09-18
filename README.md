@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m @samyAkchiche<br>
 I'm a Front-End Web Developer with a passion for creating impactful applications that solve real-world problems.  
 
-- 🔭 **Currently Working On:** My portfolio.
+- 🔭 **Currently Working On:** AnalyseMe: A resume analyser.
 - 🌱 **Learning:** TypeScript.
 - 🎯 **Goals:** To refine my front-end development skills and contribute to meaningful open-source projects.  
 
